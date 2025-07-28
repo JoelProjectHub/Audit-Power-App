@@ -42,9 +42,8 @@ A custom Power App designed to streamline vehicle auditing by enabling real-time
 
 
 <img width="1073" height="595" alt="image" src="https://github.com/user-attachments/assets/a1bf0841-c89b-43dd-b710-363e146120dd" />
-<img width="1073" height="595" alt="image" src="https://github.com/user-attachments/assets/d75ee149-f4d6-47be-bd92-b75f109efa74" />
 <img width="1075" height="599" alt="image" src="https://github.com/user-attachments/assets/6098e167-d0cd-4d9c-9433-f1b7065e1444" />
-
+<img width="1084" height="606" alt="image" src="https://github.com/user-attachments/assets/339ddf66-49f6-481e-83ea-0230ee2d1f99" />
 
 ---
 
