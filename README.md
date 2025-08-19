@@ -50,4 +50,4 @@ A custom Power App designed to streamline vehicle auditing by enabling real-time
 ## 👤 Author
 **Joel Perez**  
 - 🌐 [GitHub](https://github.com/JoelProjectHub)  
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK)
+- 💼 [LinkedIn](linkedin.com/in/joel-perez-43617b257)  
